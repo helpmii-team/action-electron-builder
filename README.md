@@ -2,7 +2,7 @@
 
 **GitHub Action for building and releasing Electron apps**
 
-test This is a GitHub Action for automatically building and releasing your Electron app using GitHub's CI/CD capabilities. It uses [`electron-builder`](https://github.com/electron-userland/electron-builder) to package your app and release it to a platform like GitHub Releases.
+This is a GitHub Action for automatically building and releasing your Electron app using GitHub's CI/CD capabilities. It uses [`electron-builder`](https://github.com/electron-userland/electron-builder) to package your app and release it to a platform like GitHub Releases.
 
 GitHub Actions allows you to build your app on macOS, Windows and Linux without needing direct access to each of these operating systems.
 
