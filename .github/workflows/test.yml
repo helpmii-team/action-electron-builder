@@ -27,7 +27,7 @@ jobs:
       - name: Install test app dependencies
         run: |
           cd ${{ matrix.package_root }}
-          npm ci
+          npm i
 
       - name: Run action
         uses: ./
